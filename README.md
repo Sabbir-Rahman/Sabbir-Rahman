@@ -1,7 +1,7 @@
 <h2>I am <b>Md Sabbir Rahman<b></h2>
  <h6>Software Engineering Student at Islamic University of Technology(IUT)</h6>
 
-[![Mail Badge](https://img.shields.io/badge/-sabbirrahman42@iut-dhaka.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabbirrahman42@iut-dhaka.edu)](mailto:sabbirrahman42@iut-dhaka.edu)
+[![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:sabbirrahman42@iut-dhaka.edu)
 
  
 ### Little more about me..
