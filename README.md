@@ -5,12 +5,11 @@
  
 ### Little more about me..
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+const me = {
+    code: ["Javascript","Python", "Java", "C++","C#","Typescript","Php","Go"],
+    interestAbout: ["web dev", "Ai", "system design & architecture","devops","mlops","teaching"],
     technologies: {
-        mobileApp: ["Android App"],
+        webapp
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap"]
@@ -19,6 +18,7 @@ const anmol = {
             js: ["node", "express", "SuiteScript"],
             python: ["flask"]
         },
+        mobileApp: ["Android App"],
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
