@@ -10,7 +10,7 @@ const me = {
     interestAbout: ["web dev", "Ai", "system design & architecture", "devops", "mlops", "teaching"],
     technologies: {
  
-        <b>webdev<b>
+ <h1>Web</h1>
          backEnd: {
             js: ["node", "express"],
             python: ["django"],
