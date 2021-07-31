@@ -7,18 +7,24 @@
 ```javascript
 const me = {
     code: ["Javascript","Python", "Java", "C++","C#","Typescript","Php","Go"],
-    interestAbout: ["web dev", "Ai", "system design & architecture","devops","mlops","teaching"],
+    interestAbout: ["web dev", "Ai", "system design & architecture", "devops", "mlops", "teaching"],
     technologies: {
-        webapp
+ 
+        <b>webdev<b>
+         backEnd: {
+            js: ["node", "express"],
+            python: ["django"],
+            php: ["laravel"]
+        },
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React"],
+            css: ["materialize", "semantic", "bootstrap"]
         },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
+        
         mobileApp: ["Android App"],
+         
+        game: ["Unity"],
+         
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
