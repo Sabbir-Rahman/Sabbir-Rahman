@@ -6,11 +6,12 @@
 ### Little more about me..
 ```javascript
 const me = {
+    interestAbout: ["web dev", "Ai", "system design & architecture", "devops", "mlops", "teaching", "social activity"],
+    
     code: ["Javascript","Python", "Java", "C++","C#","Typescript","Php","Go"],
-    interestAbout: ["web dev", "Ai", "system design & architecture", "devops", "mlops", "teaching"],
     technologies: {
  
- <h1>Web</h1>
+       Web
          backEnd: {
             js: ["node", "express"],
             python: ["django"],
@@ -21,17 +22,22 @@ const me = {
             css: ["materialize", "semantic", "bootstrap"]
         },
         
+        devOps: ["CI-CD", "Docker", "Azure", "Heroku", "Netlify", "Hostinger"],
+ 
+        databases: ["mongo", "MySql", "sqlite", "firebase", "graphql"],
+ 
+        testing: ["tdd", "jest", "supertest", "mocha", "django", "junit", "cypress"],
+ 
+        Ai: ["Image Processing", "Yolo", "Open Cv"],
+        
         mobileApp: ["Android App"],
          
         game: ["Unity"],
-         
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+ 
+        misc: ["Firestore", "Web socket",]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+ 
+    quote: "Never stops learning because life never stops teaching -LIN PERNILLE"
 };
 ```
 
