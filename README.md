@@ -7,7 +7,6 @@
 ```javascript
 const me = {
     interestAbout: ["web dev", "Ai", "system design & architecture", "devops", "mlops", "teaching", "social activity"],
-    
     code: ["Javascript","Python", "Java", "C++","C#","Typescript","Php","Go"],
     technologies: {
        web
@@ -20,19 +19,12 @@ const me = {
             js: ["React"],
             css: ["materialize", "semantic", "bootstrap"]
         },
-        
         devOps: ["CI-CD", "Docker", "Azure", "Heroku", "Netlify", "Hostinger"],
- 
-        databases: ["mongo", "MySql", "sqlite", "firebase", "graphql"],
- 
+        database: ["mongo", "MySql", "sqlite", "firebase", "graphql"],
         testing: ["tdd", "jest", "supertest", "mocha", "django", "junit", "cypress"],
- 
         Ai: ["Image Processing", "Yolo", "Open Cv"],
-        
         mobileApp: ["Android App"],
-         
         game: ["Unity"],
- 
         misc: ["Firestore", "Web socket",]
     },
  
