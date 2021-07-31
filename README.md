@@ -3,7 +3,6 @@
 
 sabbirrahman42@iut-dhaka.edu
 
-    
 <img align='right' src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="250"> 
     
 ### Little more about me..
