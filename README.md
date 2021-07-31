@@ -11,7 +11,7 @@ const me = {
     code: ["Javascript","Python", "Java", "C++","C#","Typescript","Php","Go"],
     technologies: {
  
-       Web
+       web
          backEnd: {
             js: ["node", "express"],
             python: ["django"],
