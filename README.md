@@ -38,6 +38,6 @@ const me = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&count_private=true"/>
 <br>
-![Sabbir-Rahman GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&show_icons=true&theme=dracula)
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&theme=algolia)
