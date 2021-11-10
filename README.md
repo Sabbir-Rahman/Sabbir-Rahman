@@ -34,7 +34,7 @@ const me = {
 };
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Rahman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Rahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Md Sabbir-Rahmans github stats](https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&show_icons=true&theme=radical)
