@@ -36,8 +36,7 @@ const me = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Rahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&count_private=true"/>
-<br>
+
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&theme=algolia)
