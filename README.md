@@ -36,4 +36,4 @@ const me = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&count_private=true"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&theme=algolia)
