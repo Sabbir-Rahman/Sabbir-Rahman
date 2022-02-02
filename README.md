@@ -56,4 +56,4 @@ const me = {
 <br>
   
 <summary><b>🏆 Achievements</b></summary>
-<p align="center"> <a href="https://github.com/Sabbir-Rahman"><img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&margin-w=0&theme=radical" alt="Sabbir-Rahman" /></a> </p>
+<p align="center"> <a href="https://github.com/Sabbir-Rahman"><img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&margin-w=5&theme=radical" alt="Sabbir-Rahman" /></a> </p>
