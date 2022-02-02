@@ -35,7 +35,7 @@ const me = {
 ```
 <br><br>
 <summary><b>🔎 Profile</b></summary>
-<p align="center"><img height="280em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabbir-Rahman&theme=github_dark" alt="Sabbir-Rahman" align = "center"/></p>
+<p align="center"><img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabbir-Rahman&theme=github_dark" alt="Sabbir-Rahman" align = "center"/></p>
 
 <br>
     
