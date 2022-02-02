@@ -40,8 +40,8 @@ const me = {
 <br>
     
 <summary><b>⚡ Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Sabbir-Rahman" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabbir-Rahman&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Sabbir-Rahman" align = "center"/></p>
+<p align="center"><img height="250em" src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Sabbir-Rahman" align = "center"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabbir-Rahman&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Sabbir-Rahman" align = "center"/></p>
 
 <br>
     
