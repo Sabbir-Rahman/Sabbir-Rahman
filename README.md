@@ -13,7 +13,7 @@ const me = {
     technologies: {
        web
          backEnd: {
-            js: ["node", "express"],
+            js and ts: ["node", "express"],
             python: ["django"],
             php: ["laravel"]
         },
@@ -21,7 +21,8 @@ const me = {
             js: ["React"],
             css: ["materialize", "semantic", "bootstrap"]
         },
-        devOps: ["CI-CD", "Docker", "Azure", "Heroku", "Netlify", "Hostinger"],
+        devOps: ["CI-CD", "Docker", "Kubernates", "Github Actions"],
+        hosting: ["Azure", "Heroku", "Netlify", "Hostinger", "Digital Ocean", "AWS"]
         database: ["mongo", "MySql", "sqlite", "firebase", "graphql"],
         testing: ["tdd", "jest", "supertest", "mocha", "django", "junit", "cypress"],
         Ai: ["Image Processing", "Yolo", "Open Cv"],
