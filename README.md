@@ -58,3 +58,5 @@ const me = {
   
 <summary><b>🏆 Achievements</b></summary>
 <p align="center"> <a href="https://github.com/Sabbir-Rahman"><img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&margin-w=5&theme=radical" alt="Sabbir-Rahman" /></a> </p>
+
+![Metrics](https://metrics.lecoq.io/Sabbir-Rahman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka)
