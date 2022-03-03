@@ -60,4 +60,6 @@ const me = {
 <p align="center"> <a href="https://github.com/Sabbir-Rahman"><img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&margin-w=5&theme=radical" alt="Sabbir-Rahman" /></a> </p>
 
 <p align="center"><img height="240em" src="https://metrics.lecoq.io/Sabbir-Rahman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka" alt="Sabbir-Rahman" align = "center"/>
-<img height="350em" src="https://metrics.lecoq.io/Sabbir-Rahman?template=classic&repositories=500&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka" alt="Sabbir-Rahman" align = "center"/></p>
+<img height="350em" src="https://metrics.lecoq.io/Sabbir-Rahman?template=classic&repositories=500&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" align = "center"/></p>
+
+![Metrics](https://metrics.lecoq.io/Sabbir-Rahman?template=classic&repositories=500&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
