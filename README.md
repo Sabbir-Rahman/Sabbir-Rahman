@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/Sabbir-Rahman/Sabbir-Rahman/blob/master/sabbir.png" alt="Md Sabbir Rahman" /></a>
+    <img src="https://github.com/Sabbir-Rahman/Sabbir-Rahman/blob/master/sabbir_name_font.png" alt="Md Sabbir Rahman" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/Sabbir-Rahman/Sabbir-Rahman/blob/master/api_anim.gif" width="200" />
