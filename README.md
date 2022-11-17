@@ -5,6 +5,8 @@
 </p>
 
 ✉️ sabbirrahman42@iut-dhaka.edu
+## 💻 Profile Statistics
+![VisitorCount](https://profile-counter.glitch.me/Sabbir-Rahman/count.svg)
 
 <img align='right' src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="250"> 
     
@@ -38,9 +40,7 @@ const me = {
 };
 ```
 <br><br>
-<summary><b>🔎 Profile</b></summary>
-![VisitorCount](https://profile-counter.glitch.me/Sabbir-Rahman/count.svg)
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="tasnim7ahmed" align = "center"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim7ahmed&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="tasnim7ahmed" align = "center"/></p>
   
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabbir-Rahman&theme=github_dark" alt="Sabbir-Rahman" align = "center"/></p>
