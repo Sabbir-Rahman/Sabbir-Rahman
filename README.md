@@ -1,7 +1,12 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://github.com/Sabbir-Rahman/Sabbir-Rahman/blob/master/sabbir.png" alt="Md Sabbir Rahman" /></a>
+</p>
+
 <img align="right" alt="GIF" src="https://github.com/Sabbir-Rahman/Sabbir-Rahman/blob/master/api_anim.gif" width="200" />
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2BF0FB&size=20&lines=I'm+Md+Sabbir+Rahman.;I'm+a+coder.;I'm+a+problem+solver.;I'm+an+organizer.;I'm+a+software+developer,+manager,+and+architect.;I'm+a+software+engineering+student.;I'm+a+mentor;I'm+a+learner;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f75c7e&size=20&lines=I'm+Md+Sabbir+Rahman.;I'm+a+coder.;I'm+a+problem+solver.;I'm+an+organizer.;I'm+a+software+developer,+manager,+and+architect.;I'm+a+software+engineering+student.;I'm+a+mentor;I'm+a+learner;" /></a>
 </p>
 
 
