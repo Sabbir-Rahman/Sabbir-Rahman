@@ -1,5 +1,8 @@
 <h2>I am <b>Md Sabbir Rahman<b></h2>
-<h6>Software Engineering Student at Islamic University of Technology(IUT)</h6>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2BF0FB&size=20&lines=I'm+a+coder.;I'm+an+organizer.;I'm+a+software+developer,+manager,+&designer.;I'm+a+software+engineering+student.;I'm+a+mentor;" /></a>
+</p>
 
 ✉️ sabbirrahman42@iut-dhaka.edu
 
