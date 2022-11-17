@@ -9,8 +9,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f75c7e&size=20&lines=I'm+Md+Sabbir+Rahman.;I'm+a+coder.;I'm+a+problem+solver.;I'm+an+organizer.;I'm+a+software+developer,+manager,+and+architect.;I'm+a+software+engineering+student.;I'm+a+mentor;I'm+a+learner;" /></a>
 </p>
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/md-sabbir-rahman-2174a7195/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sabbirrahman.sabbirrahman.357/)  &nbsp;<a href="mailto:sabbirrahman42@iut-dhaka.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-✉️ sabbirrahman42@iut-dhaka.edu
 
     
 ### Little more about me..
