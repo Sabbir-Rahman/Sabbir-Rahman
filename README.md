@@ -44,13 +44,13 @@ const me = {
 ```
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim7ahmed&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="tasnim7ahmed" align = "center"/></p>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim7ahmed&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="tasnim7ahmed" align = "center"/></p> -->
   
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabbir-Rahman&theme=github_dark" alt="Sabbir-Rahman" align = "center"/></p>
 
 <br>
     
-<summary><b>⚡ Stats</b></summary>
+<!-- <summary><b>⚡ Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabbir-Rahman&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Sabbir-Rahman" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabbir-Rahman&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Sabbir-Rahman" align = "center"/></p>
 
@@ -59,7 +59,7 @@ const me = {
 <summary><b>🔥 Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir-Rahman&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Sabbir-Rahman" /></p>
 
-<br>
+<br> -->
   
 <summary><b>🏆 Achievements</b></summary>
 <p align="center"> <a href="https://github.com/Sabbir-Rahman"><img src="https://github-profile-trophy.vercel.app/?username=Sabbir-Rahman&margin-w=5&theme=radical" alt="Sabbir-Rahman" /></a> </p>
